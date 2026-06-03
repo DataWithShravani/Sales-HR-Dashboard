@@ -8,7 +8,7 @@ Business Context
 WaveX Watercraft Company manufactures Jet Skis and Watercrafts. The company provided sales, HR, and distributor data from multiple sources to generate actionable insights.
 
 Data Sources
-* Sales Data (Text File) | Company Data (Excel File) | Distributor List (PDF File)
+  Sales Data (Text File) | Company Data (Excel File) | Distributor List (PDF File)
 
 Data Preparation
 * Removed all records from 2018

@@ -51,3 +51,7 @@ Key Insights
 * Forecasted future sales trends.
 * Evaluated employee demographics and satisfaction levels.
 * Monitored promotion eligibility and workforce composition.
+
+Screenshots of Dashboard
+Sales Dashboard https://github.com/DataWithShravani/Sales-HR-Dashboard/blob/main/HR_dashboard.png
+

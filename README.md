@@ -20,32 +20,32 @@ Data Preparation
 
 Sales Dashboard Features
 
-> Total Sales, Quantity, Profit, and Average Profit KPIs
-> Sales by Category
-> Sales by Country (Map Visualization)
-> Sales by Payment Method
-> Top Distributors Analysis
-> Quarterly Sales Growth
-> Sales Forecast for Next 2 Years
-> Interactive Filtering and Drill-down Analysis
+* Total Sales, Quantity, Profit, and Average Profit KPIs
+* Sales by Category
+* Sales by Country (Map Visualization)
+* Sales by Payment Method
+* Top Distributors Analysis
+* Quarterly Sales Growth
+* Sales Forecast for Next 2 Years
+* Interactive Filtering and Drill-down Analysis
 
 HR Dashboard Features
-> Employee Demographics Analysis
-> Gender Distribution
-> Average Age by Department
-> Employee Education Analysis
-> Promotion Status Tracking
-> Job Satisfaction Analysis
-> Employee Location Distribution
-> Q&A Visual for Natural Language Queries
+* Employee Demographics Analysis
+* Gender Distribution
+* Average Age by Department
+* Employee Education Analysis
+* Promotion Status Tracking
+* Job Satisfaction Analysis
+* Employee Location Distribution
+* Q&A Visual for Natural Language Queries
 
 Tools & Technologies
-> Power BI Desktop
-> Power Query
-> DAX
-> Data Modeling
-> Excel
-> PDF Data Extraction
+* Power BI Desktop
+* Power Query
+* DAX
+* Data Modeling
+* Excel
+* PDF Data Extraction
 
 Key Insights
 > Identified top-performing product categories and distributors.

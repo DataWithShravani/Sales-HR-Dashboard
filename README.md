@@ -53,6 +53,6 @@ Key Insights
 * Monitored promotion eligibility and workforce composition.
 
 Screenshots of Dashboard
-* Sales Dashboard 
-* HR Dashboard https://github.com/DataWithShravani/Sales-HR-Dashboard/blob/main/HR_dashboard.png
+* Sales Dashboard: https://github.com/DataWithShravani/Sales-HR-Dashboard/blob/main/sales_dashboard.png
+* HR Dashboard: https://github.com/DataWithShravani/Sales-HR-Dashboard/blob/main/HR_dashboard.png
 

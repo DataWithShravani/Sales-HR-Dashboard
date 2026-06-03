@@ -8,9 +8,7 @@ Business Context
 WaveX Watercraft Company manufactures Jet Skis and Watercrafts. The company provided sales, HR, and distributor data from multiple sources to generate actionable insights.
 
 Data Sources
-> Sales Data (Text File)
-> Company Data (Excel File)
-> Distributor List (PDF File)
+* Sales Data (Text File) | Company Data (Excel File) | Distributor List (PDF File)
 
 Data Preparation
 * Removed all records from 2018
@@ -48,8 +46,8 @@ Tools & Technologies
 * PDF Data Extraction
 
 Key Insights
-> Identified top-performing product categories and distributors.
-> Analyzed payment method preferences.
-> Forecasted future sales trends.
-> Evaluated employee demographics and satisfaction levels.
-> Monitored promotion eligibility and workforce composition.
+* Identified top-performing product categories and distributors.
+* Analyzed payment method preferences.
+* Forecasted future sales trends.
+* Evaluated employee demographics and satisfaction levels.
+* Monitored promotion eligibility and workforce composition.
